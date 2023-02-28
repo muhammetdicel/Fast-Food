@@ -1,0 +1,59 @@
+products
+contact 
+blogs
+href 
+height
+Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------
+
+text-transform: none;         harfleri olduğu gibi yazar
+text-transform: capitalize;   bütün ilk harfleri büyük yazar
+text-transform: uppercase;    bütün harfleri büyük yazar
+text-transform: lowercase;    bütün harfleri küçük yazar
+
+-----------------------------------------------------------------
+
+text-decoration-line: none;          yazılar çizgi kullanmaz
+text-decoration-line: underline;     yazının altına çizgi ceker
+text-decoration-line: line-through;  yazının üntünü çizer 
+
+-----------------------------------------------------------------
+
+transition: 0.2 ease;   geçiş efekti için kullanıyor açılma hızı
+overflow: hidden;   kaydırma çubuğunu için  kullanılıyor
+
+
+
+grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));  yan yana yerleştirme   
+
+
+
+
+
+
+
+
+
+
